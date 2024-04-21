@@ -1,3 +1,3 @@
 # EEE3088F-Micromouse
 A repository to manage and control versions pertaining to the EEE3088F Micro-mouse Project and all sub-projects.
-This GitHub contains folders with all datasheets for components selected for the final designs. These folders are labeled "Data sheets".
+This GitHub contains 2 folders, each carrying relevant information regarding a specific subsystem: the first is Sensing and the second is Power. There are multiple folders within each subsystem folder. There is one containing all the datasheets for components selected for the final designs. These folders are labeled "Data sheets". In addition, there is a folder titled 'Interim Design Report' in each subsystem which contains the completed Interim Design Report. Lastly, all Gerber files and Bill Of Materials files can be found in the last folder. Thank you for visiting the GitHub :) 
